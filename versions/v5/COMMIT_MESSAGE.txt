@@ -1,0 +1,11 @@
+V5: Simplified the interface and expanded country indicators
+
+- Replaced the terminal styling with a minimal dark design and readable typography.
+- Updated charts, tables and the world map to match the muted dark palette.
+- Simplified headings, spacing and timestamps while retaining collapsible panels.
+- Aligned ticker, search and refresh controls and placed search results below the toolbar.
+- Moved the watchlist to the top-right corner on both workspaces.
+- Removed status, retrieval time, source and error columns from the country yield table.
+- Kept source details and data-quality warnings outside the table.
+- Added unemployment indicators for Canada, Germany, France, the UK, Japan, Italy, Spain and Finland.
+- Consolidated the minimal-design, dark-mode and latest changes into one V5 release.
