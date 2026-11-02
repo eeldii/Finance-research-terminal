@@ -1,0 +1,12 @@
+V3: Rework terminal layout and add global macro monitors
+
+- Match the Godel-inspired charcoal, orange and white palette and remove blue accents.
+- Move ticker search to the top bar and watchlists to a right-hand rail.
+- Lock chart time ranges and place the history selector beside the chart.
+- Add cumulative price changes for 1M, 3M, 6M, 1Y, 3Y, 5Y and 10Y.
+- Move fundamentals below the chart and show monetary scales and currencies.
+- Add fiscal-quarter labels and YoY/QoQ changes to financial statements.
+- Explain headline sentiment scoring and its equal-weighted mean in the UI.
+- Add a world map of monthly sovereign yields and an eight-country 10-year yield table.
+- Add commodity futures price monitors and fixed-range charts.
+- Extend tests for date coverage, financial growth, missing data and chart bounds.

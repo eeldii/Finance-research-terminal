@@ -1,0 +1,12 @@
+V4: Added collapsible workspaces and readable research documents
+
+- Added open/close controls to major panels, charts and financial statements.
+- Moved Workspace above ticker controls as the first selection.
+- Enlarged headings and strengthened section styling.
+- Replaced the raw AI packet with sourced Markdown and HTML research documents.
+- Included company descriptions, dated prices and market-cap snapshots, fundamentals, financials and recent headlines with sentiment.
+- Removed US 10Y from the economic-series menu and retained it in the sovereign monitor.
+- Replaced the economic-series multiselect with a compact checkbox menu.
+- Expanded sovereign coverage from eight to sixteen countries.
+- Made the headline-score explanation collapsible and structured its meaning, calculation, example and limits.
+- Extended report, navigation and missing-data tests and updated documentation.
