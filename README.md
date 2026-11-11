@@ -1,8 +1,12 @@
-# AI Research Terminal
+<img width="1098" height="751" alt="image" src="https://github.com/user-attachments/assets/019635a8-b527-4a80-9473-99324e5ce608" /># AI Research Terminal
 
 A free, local research terminal for exploring market prices, company financials, macroeconomic data and news.
 
 Built with **Python, Streamlit and SQLite**, with a terminal-style interface inspired by Godel and Bloomberg. Designed for personal research without paid data subscriptions or AI API calls.
+
+<img width="1137" height="893" alt="image" src="https://github.com/user-attachments/assets/1813b7f4-a4af-491e-aeb3-ebaf7d0188d1" />
+
+<img width="1273" height="906" alt="image" src="https://github.com/user-attachments/assets/9851450f-3815-419d-9de1-11cfefffeac3" />
 
 ## Features
 
@@ -25,6 +29,8 @@ View annual and quarterly:
 
 Tables include fiscal-quarter labels, YoY and QoQ percentage changes, selectable monetary scales and CSV exports.
 
+<img width="1098" height="751" alt="image" src="https://github.com/user-attachments/assets/106d42b7-d7c1-4ecc-a57d-39f2b4343570" />
+
 ### Global macro
 
 - World map displaying available government bond yields.
@@ -37,6 +43,8 @@ Tables include fiscal-quarter labels, YoY and QoQ percentage changes, selectable
 - Public RSS headlines from Google News and Yahoo Finance.
 - Headline deduplication and source links.
 - Lightweight local sentiment scoring with an explanation of how scores are calculated.
+
+<img width="1198" height="724" alt="image" src="https://github.com/user-attachments/assets/43d8771d-8a96-4645-a131-b790977ff332" />
 
 ### AI research packets
 
