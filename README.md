@@ -1,12 +1,8 @@
-<img width="1098" height="751" alt="image" src="https://github.com/user-attachments/assets/019635a8-b527-4a80-9473-99324e5ce608" /># AI Research Terminal
+# AI Research Terminal
 
 A free, local research terminal for exploring market prices, company financials, macroeconomic data and news.
 
 Built with **Python, Streamlit and SQLite**, with a terminal-style interface inspired by Godel and Bloomberg. Designed for personal research without paid data subscriptions or AI API calls.
-
-<img width="1137" height="893" alt="image" src="https://github.com/user-attachments/assets/1813b7f4-a4af-491e-aeb3-ebaf7d0188d1" />
-
-<img width="1273" height="906" alt="image" src="https://github.com/user-attachments/assets/9851450f-3815-419d-9de1-11cfefffeac3" />
 
 ## Features
 
@@ -18,6 +14,8 @@ Built with **Python, Streamlit and SQLite**, with a terminal-style interface ins
 - Explore fundamentals, valuation ratios, margins and growth metrics.
 - Save instruments to a persistent local watchlist.
 - Download price data as CSV.
+
+<img width="1137" height="893" alt="image" src="https://github.com/user-attachments/assets/1813b7f4-a4af-491e-aeb3-ebaf7d0188d1" />
 
 ### Financial statements
 
@@ -37,6 +35,8 @@ Tables include fiscal-quarter labels, YoY and QoQ percentage changes, selectable
 - Monthly 10-year government benchmark yields for the United States, Canada, Germany, France, the United Kingdom, Italy, Japan and Australia.
 - Commodity futures charts covering oil, precious metals, copper, natural gas, corn and wheat.
 - FRED economic indicators, including interest rates, unemployment, CPI and real GDP.
+
+<img width="1273" height="906" alt="image" src="https://github.com/user-attachments/assets/9851450f-3815-419d-9de1-11cfefffeac3" />
 
 ### News and sentiment
 
